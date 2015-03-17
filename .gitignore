@@ -7,3 +7,7 @@ tests
 dist
 build
 .idea
+bin
+local
+lib
+include
